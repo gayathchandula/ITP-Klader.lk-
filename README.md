@@ -1,8 +1,8 @@
 # ITP-Klader.lk-
 
-##This Project is For Itp project
+## This Project is For Itp project
 
-####In this Project part,
+###### In this Project part,
 
 **This is about promotion management**,<br>
 
